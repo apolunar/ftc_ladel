@@ -80,8 +80,3 @@ For now this is firmly in the beta state, if you could call it that.
 ## License
 
 GNU General Public License v3.0
-
----
-
-[![Watch on GitHub](https://img.shields.io/github/watchers/apolunar/ladel.svg?style=social)](https://github.com/apolunar/ladel/watchers)
-[![Star on GitHub](https://img.shields.io/github/stars/apolunar/ladel.svg?style=social)](https://github.com/PotentialEnergyRobotics/ladel/stargazers)
