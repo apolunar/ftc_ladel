@@ -1,0 +1,9 @@
+opencv-contrib-python
+opencv-python
+pandas
+scikit-learn
+scikit-image
+tqdm
+matplotlib
+keras
+tensorflow

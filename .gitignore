@@ -1,0 +1,6 @@
+data/dataset/*
+data/model/*
+*.record
+*.tflite
+*.mp4
+!input_video.mp4
